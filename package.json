@@ -1,0 +1,40 @@
+{
+  "name": "indian-tech-dashboard",
+  "version": "1.0.0",
+  "description": "Indian Tech Market Dashboard",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay62106-eng/indian-tech-dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinay62106-eng/indian-tech-dashboard/issues"
+  },
+  "homepage": "https://github.com/vinay62106-eng/indian-tech-dashboard#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "next": "^16.4.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.6.2",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.3",
+    "postcss": "^8.5.32",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2"
+  }
+}
